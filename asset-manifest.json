@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://mattkrebs2000.github.io/csb-wljujh/static/js/main.2170a20c.chunk.js",
+    "main.js.map": "https://mattkrebs2000.github.io/csb-wljujh/static/js/main.2170a20c.chunk.js.map",
+    "runtime-main.js": "https://mattkrebs2000.github.io/csb-wljujh/static/js/runtime-main.ae7eb605.js",
+    "runtime-main.js.map": "https://mattkrebs2000.github.io/csb-wljujh/static/js/runtime-main.ae7eb605.js.map",
+    "static/js/2.2b47bbc5.chunk.js": "https://mattkrebs2000.github.io/csb-wljujh/static/js/2.2b47bbc5.chunk.js",
+    "static/js/2.2b47bbc5.chunk.js.map": "https://mattkrebs2000.github.io/csb-wljujh/static/js/2.2b47bbc5.chunk.js.map",
+    "index.html": "https://mattkrebs2000.github.io/csb-wljujh/index.html",
+    "static/js/2.2b47bbc5.chunk.js.LICENSE.txt": "https://mattkrebs2000.github.io/csb-wljujh/static/js/2.2b47bbc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae7eb605.js",
+    "static/js/2.2b47bbc5.chunk.js",
+    "static/js/main.2170a20c.chunk.js"
+  ]
+}
